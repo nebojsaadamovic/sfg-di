@@ -18,4 +18,5 @@ class SetterInjectedControllerTest {
     void getGreeting() {
         System.out.println(setterInjectedController.getGreeting());
     }
+
 }
