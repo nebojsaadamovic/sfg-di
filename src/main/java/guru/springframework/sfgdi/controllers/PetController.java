@@ -15,6 +15,6 @@ public class PetController {
 
 
     public String seyBestPet(){
-        return petService.whichIsBestpet();
+         return petService.whichIsBestpet();
     }
 }
